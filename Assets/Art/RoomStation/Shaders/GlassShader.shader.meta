@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 0ca27af3f189df04493e57e95ff0415d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Room_low_GameFloorWalls_Normal: {fileID: 2800000, guid: 1cdb90e2a89654845b0fac6af206d71a,
+      type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: ed26303647db9094986190431d0079ab
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: River
+    100002: Terrace1
+    100004: Terrace10
+    100006: Terrace11
+    100008: Terrace2
+    100010: Terrace3
+    100012: Terrace4
+    100014: Terrace5
+    100016: Terrace6
+    100018: Terrace7
+    100020: Terrace8
+    100022: Terrace9
+    100024: //RootNode
+    400000: River
+    400002: Terrace1
+    400004: Terrace10
+    400006: Terrace11
+    400008: Terrace2
+    400010: Terrace3
+    400012: Terrace4
+    400014: Terrace5
+    400016: Terrace6
+    400018: Terrace7
+    400020: Terrace8
+    400022: Terrace9
+    400024: //RootNode
+    2100000: Main
+    2100002: Material.001
+    2300000: River
+    2300002: Terrace1
+    2300004: Terrace10
+    2300006: Terrace11
+    2300008: Terrace2
+    2300010: Terrace3
+    2300012: Terrace4
+    2300014: Terrace5
+    2300016: Terrace6
+    2300018: Terrace7
+    2300020: Terrace8
+    2300022: Terrace9
+    2300024: //RootNode
+    3300000: River
+    3300002: Terrace1
+    3300004: Terrace10
+    3300006: Terrace11
+    3300008: Terrace2
+    3300010: Terrace3
+    3300012: Terrace4
+    3300014: Terrace5
+    3300016: Terrace6
+    3300018: Terrace7
+    3300020: Terrace8
+    3300022: Terrace9
+    3300024: //RootNode
+    4300000: Terrain
+    4300002: River
+    4300004: Terrace1
+    4300006: Terrace2
+    4300008: Terrace4
+    4300010: Terrace5
+    4300012: Terrace6
+    4300014: Terrace7
+    4300016: Terrace3
+    4300018: Terrace8
+    4300020: Terrace9
+    4300022: Terrace10
+    4300024: Terrace11
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main
+    second: {fileID: 2100000, guid: af11478df05ce644e80cecb2b7146093, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

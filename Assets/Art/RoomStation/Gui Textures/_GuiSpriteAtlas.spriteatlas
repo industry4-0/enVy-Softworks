@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: _GuiSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 5150a3a54dd2bca489faa5f38e788c71, type: 3}
+    - {fileID: 2800000, guid: 562c1be88b5e26541b71bd65c2433a55, type: 3}
+    - {fileID: 2800000, guid: f83fc31f63cfaf94bb57e95db1b14024, type: 3}
+    - {fileID: 2800000, guid: 42ab26d362930804795ba2d7ab062be6, type: 3}
+    - {fileID: 2800000, guid: 62ed350bd7997b44e9bf4db3d94f4b5f, type: 3}
+    - {fileID: 2800000, guid: 60bdabb487ce8f444bcc327ec434825e, type: 3}
+    - {fileID: 2800000, guid: 39267220306fd0a47b947ead3f7e573c, type: 3}
+    - {fileID: 2800000, guid: cf0dd58d98b4dc44189bcdbd18b1b597, type: 3}
+    - {fileID: 2800000, guid: 419f646d9592811469daf469c247fcd1, type: 3}
+    - {fileID: 2800000, guid: 6c763f5a9ef6ec342bada69270b3f310, type: 3}
+    - {fileID: 2800000, guid: 9036d953959efa74ab1e760e38379def, type: 3}
+    totalSpriteSurfaceArea: 1689600
+    bindAsDefault: 1
+    storedHash:
+      serializedVersion: 2
+<<<<<<< HEAD
+      Hash: 225bbb3e1efc4561d868ca47dc4f1b7b
+=======
+      Hash: 36c2c3d6fc2b3476ceb4b6f0b9ac11cd
+>>>>>>> 07b48de9cc8fba190f96ac7373a9a829ce4c4565
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 39267220306fd0a47b947ead3f7e573c, type: 3}
+  - {fileID: 21300000, guid: 9036d953959efa74ab1e760e38379def, type: 3}
+  - {fileID: 21300000, guid: 42ab26d362930804795ba2d7ab062be6, type: 3}
+  - {fileID: 21300000, guid: 60bdabb487ce8f444bcc327ec434825e, type: 3}
+  - {fileID: 21300000, guid: 5150a3a54dd2bca489faa5f38e788c71, type: 3}
+  - {fileID: 21300000, guid: 562c1be88b5e26541b71bd65c2433a55, type: 3}
+  - {fileID: 21300000, guid: 6c763f5a9ef6ec342bada69270b3f310, type: 3}
+  - {fileID: 21300000, guid: 62ed350bd7997b44e9bf4db3d94f4b5f, type: 3}
+  - {fileID: 21300000, guid: 419f646d9592811469daf469c247fcd1, type: 3}
+  - {fileID: 21300000, guid: cf0dd58d98b4dc44189bcdbd18b1b597, type: 3}
+  - {fileID: 21300000, guid: f83fc31f63cfaf94bb57e95db1b14024, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Flash
+  - Sun
+  - Circle
+  - Edit
+  - Add
+  - Border-Rounded-20px
+  - List
+  - CircleAndLine
+  - Information
+  - Icon
+  - Checked
+  m_Tag: _GuiSpriteAtlas
+  m_IsVariant: 0
